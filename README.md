@@ -1,5 +1,9 @@
-Hi, I'm Tom — a Computer Science student
-I’m passionate about building scalable backend systems, secure networks, and efficient software solutions.
+# Hi there, I'm Tom 👋
+
+I'm a Computer Science student.
+I’m passionate about building scalable backend systems, secure networks, and AI agents.  
+Experienced in developing autonomous AI pipelines, LLM orchestration, and intelligent research tools.
+
 
 ### Skills & Tools
 - **Languages:** Python, Java, C#, Node.js, C
